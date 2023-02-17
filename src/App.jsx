@@ -1,10 +1,10 @@
-import Task1 from "./Tasks/answer_task1";
+import Task from "./Tasks/answer_task2";
 import React from "react";
 
 function App() {
   return (
     <div className="container">
-      <Task1 />
+      <Task />
     </div>
   );
 }
